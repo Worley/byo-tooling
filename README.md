@@ -1,4 +1,4 @@
-# BYO-tooling — Build Your Own
+# BYO-tooling — Build Your Own Custom Fit Tools
 
 Instead of adopting someone else's AI workflow, build your own custom fit workflow that suits you uniquely.  Borrowing someone else's framework, skill pack, or agent fleet works until it doesn't.  When you know why each part of the tooling is made, you build a deeper intuition as well as a bespoke tool to amplify your specific abilities. 
 
