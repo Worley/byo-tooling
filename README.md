@@ -6,13 +6,17 @@ This tool is meant to build slow and steady momentum. You build your own workflo
 
 The rules that make this work are seven short immutables in [`AGENTS.md`](./AGENTS.md). Everything else — folder names, how often you build, how your agent talks to you — is yours to discover. Nothing here is anyone's workflow but yours.
 
-## Get started (3 steps, no GitHub knowledge needed)
+## Get started (one step)
 
-1. **Download it.** Click the green **Code** button at the top of this page → **Download ZIP** → unzip it anywhere. (Have a GitHub account? **Use this template** works too. Either way, the folder is now yours.)
-2. **Open the folder in your AI coding tool** — Claude Code, Cursor, or any agent that reads project instructions.
-3. **Type:** `start exercise 000`
+Copy this prompt into your AI tool of choice — Claude Code, Cursor, or any coding agent — and press enter:
 
-That's it. Your agent interviews you for a few minutes about how you like to work (stop whenever you want — it resumes later), writes down your first assumptions, and suggests your first build. If you'd like the folder version-controlled, just tell your agent "set up git here" — it'll handle it.
+```text
+Get me set up with BYO-tooling: copy https://github.com/Worley/byo-tooling into a
+new folder of my own (git clone it, or download and unzip its ZIP — whichever works
+here), then read its AGENTS.md and start exercise 000.
+```
+
+That's the whole setup. Your agent fetches the folder, reads the rules, and interviews you for a few minutes about how you like to work — stop whenever you want, it resumes later. It writes down your first assumptions and suggests your first build. If you'd like the folder version-controlled, just tell your agent "set up git here" — it'll handle it.
 
 ## What's inside
 
