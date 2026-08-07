@@ -14,7 +14,7 @@ Expect the first few exercises to be calibration, not magic: you and your agent 
 
 The tool is meant to build slow and steady momentum. Your workflow grows **one small piece at a time**, and every piece records the assumption behind it — what you believed, why, and what would prove it wrong. When something annoys you later, you look up the assumption, change your mind *on the record*, and rebuild. You end up with tooling you understand completely, because you grew it.
 
-## Rely on the simple framework for consistency
+### Rely on the simple framework for consistency
 
 The rules that make this work are seven short immutables in [`AGENTS.md`](./AGENTS.md). Everything else — folder names, how often you build, how your agent talks to you — is yours to discover. Nothing here is anyone's workflow but yours.
 
