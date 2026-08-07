@@ -16,6 +16,10 @@ A default, not kernel — edit freely. The register the agent speaks in is a wor
 3. **Record it as an assumption** (asserted if they chose, adopted-untested if they took your suggestion), including *scope*: always-on, per-topic (plain for infra, expert for their home turf), or per-mood.
 4. **Implement it in the harness**, not just in memory of the conversation: as an instruction block in this repo's agent-instructions file, or via the harness's native mechanism where one exists (e.g. [Claude Code output styles](https://code.claude.com/docs/en/output-styles)). The register must survive the session.
 
+## The other dial: pace
+
+The same tuning conversation applies to **slice size** — how much the agent does between check-ins (micro → small → chunk → run, defined in `agreements.md`). Voice is how it talks; pace is how much it does before asking. Diagnose, offer the ladder, record the setting, and re-tune when reactions change — exactly as with register.
+
 ## Re-tuning
 
 Register drift is normal — expertise grows, patience shrinks. When the owner's reactions change (asking for explanations they used to skip, or skipping ones they used to need), offer a re-tune; the old register gets superseded in the ledger, never erased.
