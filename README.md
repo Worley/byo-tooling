@@ -2,11 +2,19 @@
 
 Instead of adopting someone else's AI workflow. build your own custom fit workflow that suits you uniquely.  Borrowing someone else's framework, skill pack, or agent fleet works until it doesn't.  When you know why each part of the tooling is made, you build a deeper intuition as well as a bespoke tool to amplify your specific abilities. 
 
+### Begin with a (nearly) blank canvas
+
 Wtih byo-tooling, the canvas is nearly blank.  There are purpose built skills and references to help you define and refine your workflow, but everything else is up to you to build out over time.  
+
+### Run the first and only pre-baked exercise
+
+Expect the first few exercises to be calibration, not magic: you and your agent are getting in sync — it's learning how you want things done, and you're learning what to ask for. That early back-and-forth is the point, and it compounds fast.
+
+### Build momentum as your tool set expands
 
 The tool is meant to build slow and steady momentum. Your workflow grows **one small piece at a time**, and every piece records the assumption behind it — what you believed, why, and what would prove it wrong. When something annoys you later, you look up the assumption, change your mind *on the record*, and rebuild. You end up with tooling you understand completely, because you grew it.
 
-Expect the first few exercises to be calibration, not magic: you and your agent are getting in sync — it's learning how you want things done, and you're learning what to ask for. That early back-and-forth is the point, and it compounds fast.
+## Rely on the simple framework for consistency
 
 The rules that make this work are seven short immutables in [`AGENTS.md`](./AGENTS.md). Everything else — folder names, how often you build, how your agent talks to you — is yours to discover. Nothing here is anyone's workflow but yours.
 
