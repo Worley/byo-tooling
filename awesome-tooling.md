@@ -28,6 +28,7 @@ Coding agents, agent CLIs, and IDE-integrated agents that drive development work
 
 Reusable skill packs, prompt libraries, and instruction-file collections for coding agents. *Last verified: 2026-08-06.*
 
+- [Agent Skills](https://github.com/addyosmani/agent-skills) — Addy Osmani's 24 production-grade engineering skills for coding agents, spanning the lifecycle from interview and spec through TDD, review, and launch, with CI skill validators and a three-tier eval harness. (MIT)
 - [Awesome Claude Code Subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) — Collection of 100+ specialized Claude Code subagent definitions. (MIT)
 - [Awesome Copilot](https://github.com/github/awesome-copilot) — Community-contributed instructions, agents, skills, hooks, and plugins for the GitHub Copilot ecosystem. (MIT)
 - [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) — Hand-curated resource library for prompt engineering across major models. (Apache-2.0)
