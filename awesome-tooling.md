@@ -13,6 +13,7 @@ Coding agents, agent CLIs, and IDE-integrated agents that drive development work
 - [Cline](https://github.com/cline/cline) — Autonomous coding agent available as an SDK, IDE extension, and CLI assistant that reads, writes, and executes code. (Apache-2.0)
 - [Codex](https://github.com/openai/codex) — Lightweight coding agent that runs in the terminal. (Apache-2.0)
 - [Continue](https://github.com/continuedev/continue) — Open-source coding agent and code-completion extension for VS Code and JetBrains IDEs. (Apache-2.0)
+- [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) — DeepSeek's plugin-architecture agent harness (`dsh`) where every capability, including the core loop, is a composable plugin; developer preview with breaking changes expected. (MIT)
 - [Devika](https://github.com/stitionai/devika) — Agentic AI software engineer that plans, researches, and writes code toward high-level objectives. (MIT)
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) — Open-source AI agent that brings Gemini into the terminal for coding and task automation. (Apache-2.0)
 - [Goose](https://github.com/aaif-goose/goose) — Local, extensible AI agent that automates coding and engineering tasks from the desktop or CLI. (Apache-2.0)
