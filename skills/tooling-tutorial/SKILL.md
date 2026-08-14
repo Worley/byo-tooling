@@ -34,6 +34,19 @@ Work like a design tree. Seed domains (a starting map, not a ceiling):
 7. Failure ritual — what happens when the agent annoys you
 8. **First project** (contextual — fires when the owner starts real work with their tooling, per kernel immutable 7): how do projects consume the tooling — copy (fails by drift), reference (fails by coupling), or fork (fails by divergence)? Present each option *with its characteristic failure mode named*, so the assumption's falsified-when clause is pre-written. Where do project-specific deviations live, and what promotes one to the tooling repo (a good default: appearing independently in two projects)? Should this repo keep a `projects.md` pointer index of its consumers — pointers only, never content? Also settle the simplest thing first: **one parent folder where projects live** — named, created, and recorded — so outputs never scatter into Downloads or mystery locations (see the kernel's no-mystery-locations agreement).
 
+9. **Reinvocation & return ritual** (probe EARLY — a repo nobody re-enters fails silently):
+   how does the tooling get loaded in future sessions — plugin install, a symlink script into
+   the agent's skills directory, or a paste-prompt — and on which machines? Present each with
+   its failure mode: plugins fail by version lag (forgetting to update), symlinks fail by
+   machine drift (works here, missing there), paste-prompts fail by abandonment (friction
+   wins). What is the return ritual after days away — is there one command or phrase that
+   re-enters the loop, and is it written at the top of the README where a cold return will
+   actually find it? What cadence is the owner committing to (daily exercise, weekly batch,
+   opportunistic), and — most important — what happens after a LAPSE: the assumption to
+   record is "resume, never restart," because the repo must absorb gaps without guilt or a
+   fresh-start reset. Each answer becomes a falsifiable assumption ("plugin, falsified when
+   a session runs against a stale version twice").
+
 **Pacing across all rounds:** Exercise 000 is also backlog-building time — every friction the owner mentions becomes a candidate exercise, so probing produces momentum, not just entries. But balance cuts both ways: too much probing without building frustrates ("all talk"), and too much building without check-ins frustrates worse ("it doesn't do what I want"). Interleave — probe a little, build a slice, collect the reaction, repeat — and say the narrative out loud early: *the first exercises are how you and your agent get in sync; expect calibration, not magic, and expect it to compound.*
 
 **Rounds are small: 2–3 questions, answerable in one breath.** Number each question and follow it with a recommended answer — but **recommend on decisions, never on self-reports**: questions about *their* life and history get no recommendation, only an example of what an answer sounds like.
