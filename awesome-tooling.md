@@ -66,6 +66,7 @@ Model Context Protocol servers, clients, SDKs, and registries that connect agent
 
 Hooks, permission guards, secret scanners, and sandboxing for safe agent operation. *Last verified: 2026-08-06.*
 
+- [Deepsec](https://github.com/vercel-labs/deepsec) — Agent-powered security harness that sweeps entire codebases for hard-to-find vulnerabilities using parallel coding-agent workers. (Apache-2.0)
 - [E2B](https://github.com/e2b-dev/E2B) — Open-source sandboxed cloud environments for running untrusted AI-generated code. (Apache-2.0)
 - [Gitleaks](https://github.com/gitleaks/gitleaks) — Scans repos, commits, and diffs for hardcoded secrets. (MIT)
 - [Guardrails](https://github.com/guardrails-ai/guardrails) — Framework adding input/output validation guards to LLM applications. (Apache-2.0)
@@ -75,6 +76,7 @@ Hooks, permission guards, secret scanners, and sandboxing for safe agent operati
 - [Secretlint](https://github.com/secretlint/secretlint) — Pluggable linter preventing credentials from being committed. (MIT)
 - [Semgrep](https://github.com/semgrep/semgrep) — Fast static analysis with writable rules, commonly gating agent-written code. (LGPL-2.1)
 - [TruffleHog](https://github.com/trufflesecurity/trufflehog) — Finds and verifies leaked credentials across git history, filesystems, and cloud stores. (AGPL-3.0)
+- [Warden](https://github.com/getsentry/warden) — Sentry's event-driven code-review agents (Claude Agent SDK) with built-in security-review and correctness skills, run via CLI or GitHub Action. (FSL-1.1-ALv2 — source-available, not OSI; converts to Apache-2.0 after two years)
 
 ## Spec-Driven & Workflow Frameworks
 
